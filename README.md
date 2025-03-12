@@ -24,7 +24,6 @@ function testScope() {
 }
 ```
 
-![JavaScript Scope](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-scopes.svg/800px-JavaScript-scopes.svg.png)
 
 ---
 
@@ -66,13 +65,13 @@ var sayHi = function() {
 };
 ```
 
-![JavaScript Hoisting](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript_Hoisting.png)
+
 
 ---
 
 ## Заключение
-- **Используй `let` и `const`**, чтобы избежать неожиданных ошибок с `var`.
-- **Понимай лексическую область видимости**, чтобы правильно работать с переменными.
-- **Знай про hoisting**, чтобы код выполнялся так, как ты ожидаешь!
+- **Использовать `let` и `const`**, чтобы избежать неожиданных ошибок с `var`.
+- **Понимать лексическую область видимости**, чтобы правильно работать с переменными.
+- **Знать про hoisting**, чтобы код выполнялся так, как ожидается!
 
 
